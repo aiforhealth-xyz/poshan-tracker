@@ -1,0 +1,134 @@
+{
+    "monthWiseActiveBeneficiaries": [
+        {
+            "districts": [
+                {
+                    "aadharHealthData": [
+                        {
+                            "count": 96537479.0,
+                            "title": "Aadhaar verified",
+                            "color": "#3ca550",
+                            "percent": 96.25,
+                            "title1": "Beneficiaries",
+                            "bgImg": "aadhar_verified"
+                        },
+                        {
+                            "count": 2308116.0,
+                            "title": "Health ID",
+                            "color": "#5739ae",
+                            "percent": 2.3,
+                            "title1": "Created",
+                            "bgImg": "healthid"
+                        }
+                    ],
+                    "activeBeneficiaries": [
+                        {
+                            "count": 6051956.0,
+                            "title": "Pregnant Women",
+                            "color": "#1f78b4",
+                            "categImg": "../images/NewDashboard/pregnantwomen.png",
+                            "percent": 6.03,
+                            "title1": ""
+                        },
+                        {
+                            "count": 5055026.0,
+                            "title": "Lactating Mothers",
+                            "color": "#324e79",
+                            "categImg": "../images/NewDashboard/lactatingmother.png",
+                            "percent": 5.04,
+                            "title1": ""
+                        },
+                        {
+                            "count": 0,
+                            "title": "Adolescent Girls",
+                            "color": "#e05754",
+                            "categImg": "../images/NewDashboard/adolescentgirls.png",
+                            "percent": 0,
+                            "title1": ""
+                        },
+                        {
+                            "count": 4253887.0,
+                            "title": "Children",
+                            "color": "#a34075",
+                            "categImg": "../images/NewDashboard/childzerosixmonths.png",
+                            "percent": 4.24,
+                            "title1": "(0-6 Months)"
+                        },
+                        {
+                            "count": 40251430.0,
+                            "title": "Children",
+                            "color": "#ee9b06",
+                            "categImg": "../images/NewDashboard/childsixmonththreeyears.png",
+                            "percent": 40.13,
+                            "title1": "(6 Months - 3 Years)"
+                        },
+                        {
+                            "count": 44688370.0,
+                            "title": "Children",
+                            "color": "#3ca550",
+                            "categImg": "../images/NewDashboard/childthreesixyears.png",
+                            "percent": 44.55,
+                            "title1": "(3 - 6 Years)"
+                        },
+                        {
+                            "count": 3318200,
+                            "title": "Children(3 - 6 Years)",
+                            "color": "#3ca550",
+                            "categImg": "../images/NewDashboard/childthreesixyears.png",
+                            "percent": 3.31,
+                            "title1": "School Going"
+                        },
+                        {
+                            "count": 41370170,
+                            "title": "Children(3 - 6 Years)",
+                            "color": "#3ca550",
+                            "categImg": "../images/NewDashboard/childthreesixyears.png",
+                            "percent": 41.25,
+                            "title1": "Non-school Going"
+                        }
+                    ],
+                    "totalActiveBeneficiaries": [
+                        {
+                            "count": 100300669.0,
+                            "title": "Eligible Beneficiaries"
+                        }
+                    ],
+                    "district_id": 0,
+                    "activeBeneficiariesData": [
+                        {
+                            "labels": [
+                                "Pregnant Women",
+                                "Lactating Mothers",
+                                "Children(0-6 Months)",
+                                "Children(6 Months - 3 Years)",
+                                "Children(3-6 Years)"
+                            ],
+                            "datasets": [
+                                {
+                                    "circumfrence": 100,
+                                    "data": [
+                                        6.03,
+                                        5.04,
+                                        4.24,
+                                        40.13,
+                                        44.55
+                                    ],
+                                    "borderWidth": 0.5,
+                                    "backgroundColor": [
+                                        "#1f78b4",
+                                        "#324e79",
+                                        "#e05754",
+                                        "#a34075",
+                                        "#ee9b06"
+                                    ],
+                                    "label": "Active Beneficiaries"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "id": 0
+        }
+    ]
+}

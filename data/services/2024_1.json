@@ -1,0 +1,112 @@
+{
+    "keyServices": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 1341194,
+                            "title1": "Open For Atleast 1 Day",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "orange",
+                            "title": "Anganwadi Centers"
+                        },
+                        {
+                            "count": 925274,
+                            "title1": "Open For Atleast 21 Days",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "purple",
+                            "title": "Anganwadi Centers"
+                        },
+                        {
+                            "count": 0,
+                            "title1": "Own Building",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "blue",
+                            "title": "AWC Infrastructure"
+                        },
+                        {
+                            "count": 0,
+                            "title1": "Fuctional Toilets",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "light_blue",
+                            "title": "AWC Infrastructure"
+                        },
+                        {
+                            "count": 0,
+                            "title1": "Drinking Water Source",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "green",
+                            "title": "AWC Infrastructure"
+                        },
+                        {
+                            "count": 9616158,
+                            "title1": "AWC For Atleast 21 days",
+                            "iconImg": "../images/NewDashboard/count1.png",
+                            "bgColor": "pink",
+                            "title": "Children Attended"
+                        },
+                        {
+                            "count": 29052922,
+                            "title1": "Given For Atleast 1 Day",
+                            "iconImg": "../images/NewDashboard/count5.png",
+                            "bgColor": "darkblue",
+                            "title": "Hot Cooked Meal (HCM)"
+                        },
+                        {
+                            "count": 10841861,
+                            "title1": "Given For Atleast 21 Days",
+                            "iconImg": "../images/NewDashboard/count5.png",
+                            "bgColor": "navyblue",
+                            "title": "Hot Cooked Meal (HCM)"
+                        },
+                        {
+                            "count": 34232830,
+                            "title1": "Given For Atleast 1 Day",
+                            "iconImg": "../images/NewDashboard/count2.png",
+                            "bgColor": "peach",
+                            "title": "Take Home Ration"
+                        },
+                        {
+                            "count": 31564521,
+                            "title1": "Given For Atleast 21 Days",
+                            "iconImg": "../images/NewDashboard/count2.png",
+                            "bgColor": "peach",
+                            "title": "Take Home Ration"
+                        },
+                        {
+                            "count": 10929861,
+                            "title1": "Given For 1-6 Days",
+                            "iconImg": "../images/NewDashboard/count5.png",
+                            "bgColor": "darkblue",
+                            "title": "Hot Cooked Meal (HCM)"
+                        },
+                        {
+                            "count": 3555113,
+                            "title1": "Given For 7-14 Days",
+                            "iconImg": "../images/NewDashboard/count5.png",
+                            "bgColor": "darkblue",
+                            "title": "Hot Cooked Meal (HCM)"
+                        },
+                        {
+                            "count": 3726087,
+                            "title1": "Given For 15-20 Days",
+                            "iconImg": "../images/NewDashboard/count5.png",
+                            "bgColor": "darkblue",
+                            "title": "Hot Cooked Meal (HCM)"
+                        },
+                        {
+                            "count": 14567948,
+                            "title1": "Given For Atleast 15 Days",
+                            "iconImg": "../images/NewDashboard/count5.png",
+                            "bgColor": "darkblue",
+                            "title": "Hot Cooked Meal (HCM)"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 0
+        }
+    ]
+}
