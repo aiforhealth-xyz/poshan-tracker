@@ -1,6 +1,18 @@
 [
     {
         "state": {
+            "name": "Select State",
+            "value": "0"
+        },
+        "districts": [
+            {
+                "name": "Select District",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "state": {
             "name": "Andaman & Nicobar Islands",
             "value": "6"
         },
