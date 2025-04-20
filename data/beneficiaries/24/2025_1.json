@@ -1,0 +1,121 @@
+{
+    "monthWiseActiveBeneficiaries": [
+        {
+            "districts": [
+                {
+                    "aadharHealthData": [
+                        {
+                            "count": 21846033.0,
+                            "title": "Aadhaar verified",
+                            "color": "#3ca550",
+                            "percent": 99.63,
+                            "title1": "Beneficiaries",
+                            "bgImg": "aadhar_verified"
+                        },
+                        {
+                            "count": 19238.0,
+                            "title": "Health ID",
+                            "color": "#5739ae",
+                            "percent": 0.09,
+                            "title1": "Created",
+                            "bgImg": "healthid"
+                        }
+                    ],
+                    "activeBeneficiaries": [
+                        {
+                            "count": 1032810.0,
+                            "title": "Children",
+                            "color": "#1f78b4",
+                            "categImg": "../images/NewDashboard/childzerosixmonths.png",
+                            "percent": 4.71,
+                            "title1": "(0-6 Months)"
+                        },
+                        {
+                            "count": 9015854.0,
+                            "title": "Children",
+                            "color": "#324e79",
+                            "categImg": "../images/NewDashboard/childsixmonththreeyears.png",
+                            "percent": 41.12,
+                            "title1": "(6 Months - 3 Years)"
+                        },
+                        {
+                            "count": 9400040.0,
+                            "title": "Children",
+                            "color": "#e05754",
+                            "categImg": "../images/NewDashboard/childthreesixyears.png",
+                            "percent": 42.87,
+                            "title1": "(3 - 6 Years)"
+                        },
+                        {
+                            "count": 1210454.0,
+                            "title": "Pregnant Women",
+                            "color": "#a34075",
+                            "categImg": "../images/NewDashboard/pregnantwomen.png",
+                            "percent": 5.52,
+                            "title1": ""
+                        },
+                        {
+                            "count": 1089561.0,
+                            "title": "Lactating Mothers",
+                            "color": "#ee9b06",
+                            "categImg": "../images/NewDashboard/lactatingmother.png",
+                            "percent": 4.97,
+                            "title1": ""
+                        },
+                        {
+                            "count": 177844.0,
+                            "title": "Adolescent Girls",
+                            "color": "#3ca550",
+                            "categImg": "../images/NewDashboard/adolescentgirls.png",
+                            "percent": 0.81,
+                            "title1": ""
+                        }
+                    ],
+                    "totalActiveBeneficiaries": [
+                        {
+                            "count": 21926563.0,
+                            "title": "Eligible Beneficiaries"
+                        }
+                    ],
+                    "district_id": 0,
+                    "activeBeneficiariesData": [
+                        {
+                            "labels": [
+                                "Children(0-6 Months)",
+                                "Children(6 Months - 3 Years)",
+                                "Children(3-6 Years)",
+                                "Pregnant Women",
+                                "Lactating Mothers",
+                                "Adolscent Girls"
+                            ],
+                            "datasets": [
+                                {
+                                    "circumfrence": 100,
+                                    "data": [
+                                        4.71,
+                                        41.12,
+                                        42.87,
+                                        5.52,
+                                        4.97,
+                                        0.81
+                                    ],
+                                    "borderWidth": 0.5,
+                                    "backgroundColor": [
+                                        "#1f78b4",
+                                        "#324e79",
+                                        "#e05754",
+                                        "#a34075",
+                                        "#ee9b06",
+                                        "#3ca550"
+                                    ],
+                                    "label": "Active Beneficiaries"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "id": 24
+        }
+    ]
+}

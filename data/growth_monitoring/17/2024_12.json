@@ -1,0 +1,1879 @@
+{
+    "growthmonitoring": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 22556,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "19.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "7.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 19932,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "6.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "20.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 128
+                },
+                {
+                    "data": [
+                        {
+                            "count": 103846,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "28.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "14.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 93280,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "29.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "14.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 129
+                },
+                {
+                    "data": [
+                        {
+                            "count": 94590,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "98.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "35.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "28.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 83110,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "98.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "13.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "35.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "26.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 130
+                },
+                {
+                    "data": [
+                        {
+                            "count": 127075,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "22.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 114038,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "11.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "34.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "20.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 131
+                },
+                {
+                    "data": [
+                        {
+                            "count": 90409,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "29.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "18.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 79027,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "31.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "17.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 132
+                },
+                {
+                    "data": [
+                        {
+                            "count": 37175,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "41.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "24.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 32923,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "10.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "42.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "23.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 133
+                },
+                {
+                    "data": [
+                        {
+                            "count": 106191,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "32.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "22.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 95455,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "10.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "1.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "21.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 134
+                },
+                {
+                    "data": [
+                        {
+                            "count": 87795,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "39.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "24.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 77940,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "40.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "22.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 135
+                },
+                {
+                    "data": [
+                        {
+                            "count": 266622,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "31.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "19.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 222980,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "32.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "18.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 103
+                },
+                {
+                    "data": [
+                        {
+                            "count": 71177,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "18.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "10.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 62738,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "6.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "18.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 104
+                },
+                {
+                    "data": [
+                        {
+                            "count": 125694,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "32.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "24.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 113579,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "15.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "23.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 105
+                },
+                {
+                    "data": [
+                        {
+                            "count": 63698,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "22.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 55387,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "1.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "21.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 106
+                },
+                {
+                    "data": [
+                        {
+                            "count": 265521,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "38.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "21.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 219685,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "39.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "19.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 107
+                },
+                {
+                    "data": [
+                        {
+                            "count": 76277,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "50.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "30.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 64315,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "6.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "52.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "28.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 108
+                },
+                {
+                    "data": [
+                        {
+                            "count": 135741,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "97.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "20.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 118415,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "35.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "20.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 109
+                },
+                {
+                    "data": [
+                        {
+                            "count": 38173,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "19.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 33885,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "8.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "34.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "18.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 110
+                },
+                {
+                    "data": [
+                        {
+                            "count": 55069,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "48.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "40.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 46299,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "14.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "1.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "50.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "37.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 111
+                },
+                {
+                    "data": [
+                        {
+                            "count": 169183,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "53.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "36.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 150354,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "6.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "0.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "54.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "35.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 112
+                },
+                {
+                    "data": [
+                        {
+                            "count": 18073,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "48.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "35.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 15632,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "12.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "50.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "33.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 113
+                },
+                {
+                    "data": [
+                        {
+                            "count": 39853,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "29.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "14.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 35993,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "4.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "30.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "13.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 114
+                },
+                {
+                    "data": [
+                        {
+                            "count": 67942,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "32.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "20.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 60449,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "32.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "19.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 115
+                },
+                {
+                    "data": [
+                        {
+                            "count": 74132,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "98.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "25.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "11.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 67079,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "98.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "4.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "26.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "10.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 116
+                },
+                {
+                    "data": [
+                        {
+                            "count": 60979,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "97.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "29.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "15.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 53848,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "97.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "10.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "5.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "31.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "14.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 117
+                },
+                {
+                    "data": [
+                        {
+                            "count": 71304,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "26.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "11.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 63681,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "4.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "27.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "11.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 118
+                },
+                {
+                    "data": [
+                        {
+                            "count": 116548,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "28.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "16.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 103970,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "28.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "15.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 119
+                },
+                {
+                    "data": [
+                        {
+                            "count": 142148,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "37.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "22.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 119128,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "39.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "20.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 120
+                },
+                {
+                    "data": [
+                        {
+                            "count": 97486,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "32.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "20.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 85000,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "33.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "19.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 121
+                },
+                {
+                    "data": [
+                        {
+                            "count": 78682,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "34.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "27.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 66599,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "15.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "35.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "25.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 122
+                },
+                {
+                    "data": [
+                        {
+                            "count": 42216,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "28.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "15.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 38185,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "8.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "3.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "29.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "14.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 123
+                },
+                {
+                    "data": [
+                        {
+                            "count": 37502,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "53.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "39.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 32550,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "11.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "1.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "55.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "37.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 124
+                },
+                {
+                    "data": [
+                        {
+                            "count": 50784,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "23.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "6.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 44128,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "5.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "24.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "6.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 125
+                },
+                {
+                    "data": [
+                        {
+                            "count": 123276,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "48.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "36.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 104108,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "13.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "49.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "34.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 126
+                },
+                {
+                    "data": [
+                        {
+                            "count": 82309,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "36.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "18.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 72664,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "7.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "37.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "17.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 127
+                },
+                {
+                    "data": [
+                        {
+                            "count": 3040026,
+                            "title1": "(0 - 6 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_6y",
+                            "percent": "35.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_6y",
+                            "percent": "22.00",
+                            "title": "Underweight"
+                        },
+                        {
+                            "count": 2646356,
+                            "title1": "(0 - 5 Years)",
+                            "percentage": "99.00",
+                            "iconImg": "../images/NewDashboard/gm_measure.png",
+                            "title": "Children Measured"
+                        },
+                        {
+                            "title1": "SAM/MAM",
+                            "title2": "0m_5y",
+                            "percent": "9.00",
+                            "title": "Wasting"
+                        },
+                        {
+                            "title1": "Obese/Overweight",
+                            "title2": "0m_5y",
+                            "percent": "2.00",
+                            "title": "Overweight"
+                        },
+                        {
+                            "title1": "Severely/Moderately Stunted",
+                            "title2": "0m_5y",
+                            "percent": "36.00",
+                            "title": "Stunting"
+                        },
+                        {
+                            "title1": "Severely/Moderately Underweight",
+                            "title2": "0m_5y",
+                            "percent": "21.00",
+                            "title": "Underweight"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 17
+        }
+    ]
+}

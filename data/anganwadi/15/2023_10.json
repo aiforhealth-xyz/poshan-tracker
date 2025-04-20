@@ -1,0 +1,74 @@
+{
+    "AnganwadiCenterCount": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 61869,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-total-icon",
+                            "title": "awc_total"
+                        },
+                        {
+                            "count": 61485,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-total-icon",
+                            "title": "awc_regular"
+                        },
+                        {
+                            "count": 384,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-mini-icon",
+                            "title": "awc_mini"
+                        },
+                        {
+                            "count": 6685,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-urban-icon",
+                            "title": "awc_urban"
+                        },
+                        {
+                            "count": 45989,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-rural-icon",
+                            "title": "awc_rural"
+                        },
+                        {
+                            "count": 9195,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-tribal-icon",
+                            "title": "awc_tribal"
+                        },
+                        {
+                            "count": 1458,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/awc-close-icon",
+                            "title": "awc_did_not_open"
+                        },
+                        {
+                            "count": 9760,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/ang-center-open",
+                            "title": "awc_opened_less_than_15_days"
+                        },
+                        {
+                            "count": 42109,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/ang-center-open",
+                            "title": "awc_opened_for_atleast_21_days"
+                        },
+                        {
+                            "count": 52109,
+                            "state_id": 15,
+                            "iconImg": "../img/dashboard_v1/v6/ang-center-open",
+                            "title": "awc_opened_atleast_15_days"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 15
+        }
+    ]
+}

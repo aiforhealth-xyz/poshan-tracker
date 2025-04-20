@@ -1,0 +1,35 @@
+{
+    "keyServices": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 155735,
+                            "title1": "Total",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "orange",
+                            "title": "Adolescent Girls"
+                        },
+                        {
+                            "count": 150191,
+                            "title1": "Adolescent Girls",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "purple",
+                            "title": "Aadhaar Verified"
+                        },
+                        {
+                            "count": 17543,
+                            "title1": "Given For Atleast 25 Days",
+                            "iconImg": "../images/NewDashboard/count6.png",
+                            "bgColor": "blue",
+                            "title": "Take Home Ration (THR)"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 23
+        }
+    ]
+}

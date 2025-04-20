@@ -1,0 +1,60 @@
+{
+    "homevisit": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 3366,
+                            "title1": "Lactating Mother",
+                            "iconImg": "../images/NewDashboard/home_visit_preg_women_img.png",
+                            "title": "Pregnant Women &"
+                        },
+                        {
+                            "count": 2596,
+                            "title1": "(0 - 2 Years)",
+                            "iconImg": "../images/NewDashboard/home_visit_child_img.png",
+                            "title": "Children"
+                        }
+                    ],
+                    "district_id": 516
+                },
+                {
+                    "data": [
+                        {
+                            "count": 3022,
+                            "title1": "Lactating Mother",
+                            "iconImg": "../images/NewDashboard/home_visit_preg_women_img.png",
+                            "title": "Pregnant Women &"
+                        },
+                        {
+                            "count": 2283,
+                            "title1": "(0 - 2 Years)",
+                            "iconImg": "../images/NewDashboard/home_visit_child_img.png",
+                            "title": "Children"
+                        }
+                    ],
+                    "district_id": 518
+                },
+                {
+                    "data": [
+                        {
+                            "count": 6388,
+                            "title1": "Lactating Mother",
+                            "iconImg": "../images/NewDashboard/home_visit_preg_women_img.png",
+                            "title": "Pregnant Women &"
+                        },
+                        {
+                            "count": 4879,
+                            "title1": "(0 - 2 Years)",
+                            "iconImg": "../images/NewDashboard/home_visit_child_img.png",
+                            "title": "Children"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 31
+        }
+    ]
+}

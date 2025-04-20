@@ -1,0 +1,32 @@
+{
+    "awcInfrastructureCount": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 19448,
+                            "state_id": 3,
+                            "iconImg": "../img/dashboard_v1/v6/awc_owned_building",
+                            "title": "awc_owned_building"
+                        },
+                        {
+                            "count": 14547,
+                            "state_id": 3,
+                            "iconImg": "../img/dashboard_v1/v6/functional -toilet-icon",
+                            "title": "awc_functional_toilet"
+                        },
+                        {
+                            "count": 9624,
+                            "state_id": 3,
+                            "iconImg": "../img/dashboard_v1/v6/drinking -water-icon",
+                            "title": "awc_drinking_water_source"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 3
+        }
+    ]
+}

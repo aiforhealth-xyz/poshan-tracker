@@ -1,0 +1,43 @@
+{
+    "homevisit": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 5164,
+                            "title1": "Lactating Mother",
+                            "iconImg": "../images/NewDashboard/home_visit_preg_women_img.png",
+                            "title": "Pregnant Women &"
+                        },
+                        {
+                            "count": 8315,
+                            "title1": "(0 - 2 Years)",
+                            "iconImg": "../images/NewDashboard/home_visit_child_img.png",
+                            "title": "Children"
+                        }
+                    ],
+                    "district_id": 24
+                },
+                {
+                    "data": [
+                        {
+                            "count": 5164,
+                            "title1": "Lactating Mother",
+                            "iconImg": "../images/NewDashboard/home_visit_preg_women_img.png",
+                            "title": "Pregnant Women &"
+                        },
+                        {
+                            "count": 8315,
+                            "title1": "(0 - 2 Years)",
+                            "iconImg": "../images/NewDashboard/home_visit_child_img.png",
+                            "title": "Children"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 8
+        }
+    ]
+}

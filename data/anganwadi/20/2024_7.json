@@ -1,0 +1,92 @@
+{
+    "AnganwadiCenterCount": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 35697,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-total-icon",
+                            "title": "awc_total"
+                        },
+                        {
+                            "count": 31755,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-total-icon",
+                            "title": "awc_regular"
+                        },
+                        {
+                            "count": 3942,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-mini-icon",
+                            "title": "awc_mini"
+                        },
+                        {
+                            "count": 6930,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-urban-icon",
+                            "title": "awc_urban"
+                        },
+                        {
+                            "count": 91,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-tribal-urban-icon",
+                            "title": "awc_tribal_urban"
+                        },
+                        {
+                            "count": 0,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-urban-pvtg-icon",
+                            "title": "awc_urban_pvtg"
+                        },
+                        {
+                            "count": 28767,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-rural-icon",
+                            "title": "awc_rural"
+                        },
+                        {
+                            "count": 4183,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-tribal-rural-icon",
+                            "title": "awc_tribal_rural"
+                        },
+                        {
+                            "count": 10,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-rural-pvtg-icon",
+                            "title": "awc_rural_pvtg"
+                        },
+                        {
+                            "count": 120,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/awc-close-icon",
+                            "title": "awc_did_not_open"
+                        },
+                        {
+                            "count": 1864,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/ang-center-open",
+                            "title": "awc_opened_less_than_15_days"
+                        },
+                        {
+                            "count": 22981,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/ang-center-open",
+                            "title": "awc_opened_for_atleast_25_days"
+                        },
+                        {
+                            "count": 33833,
+                            "state_id": 20,
+                            "iconImg": "../img/dashboard_v1/v6/ang-center-open",
+                            "title": "awc_opened_atleast_15_days"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 20
+        }
+    ]
+}

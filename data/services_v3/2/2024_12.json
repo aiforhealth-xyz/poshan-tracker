@@ -1,0 +1,34 @@
+{
+    "keyservices": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "Total_eligible_beneficiaries": 660364,
+                            "Total_beneficiary": 666879,
+                            "opted_out_count": 6515
+                        },
+                        {
+                            "snp_Given_for_At_Least_15": 565465,
+                            "thr_per": "77.00",
+                            "hcm_per": "22.00"
+                        },
+                        {
+                            "hcm_per": "20.00",
+                            "thr_per": "79.00",
+                            "snp_Given_for_At_Least_21_Days": 549734
+                        },
+                        {
+                            "snp_Given_for_At_Least_25_Days": 438068,
+                            "thr_per": "99.00",
+                            "hcm_per": "0.00"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 2
+        }
+    ]
+}

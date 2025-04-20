@@ -1,0 +1,89 @@
+{
+    "AnganwadiCenterCount": [
+        {
+            "districts": [
+                {
+                    "data": [
+                        {
+                            "count": 25962,
+                            "iconImage": "../img/dashboard_v1/v6/awc-total-icon",
+                            "title": "awc_total"
+                        },
+                        {
+                            "count": 25509,
+                            "iconImage": "../img/dashboard_v1/v6/awc-regular-icon",
+                            "title": "awc_regular"
+                        },
+                        {
+                            "count": 453,
+                            "iconImage": "../img/dashboard_v1/v6/awc-mini-icon",
+                            "title": "awc_mini"
+                        },
+                        {
+                            "count": 5196,
+                            "iconImage": "../img/dashboard_v1/v6/urban-icon",
+                            "title": "urban"
+                        },
+                        {
+                            "count": 0,
+                            "iconImage": "../img/dashboard_v1/v6/Tribal-urban-icon",
+                            "title": "Tribal_urban"
+                        },
+                        {
+                            "count": 0,
+                            "iconImage": "../img/dashboard_v1/v6/pvtg-urban-icon",
+                            "title": "pvtg_urban"
+                        },
+                        {
+                            "count": 20766,
+                            "iconImage": "../img/dashboard_v1/v6/rural-icon",
+                            "title": "rural"
+                        },
+                        {
+                            "count": 0,
+                            "iconImage": "../img/dashboard_v1/v6/Tribal-rural-icon",
+                            "title": "Tribal_rural"
+                        },
+                        {
+                            "count": 0,
+                            "iconImage": "../img/dashboard_v1/v6/pvtg-rural-icon",
+                            "title": "pvtg_rural"
+                        },
+                        {
+                            "count": 84,
+                            "iconImage": "../img/dashboard_v1/v6/Opened-0-Days-icon",
+                            "title": "Opened_0_Days"
+                        },
+                        {
+                            "count": 25076,
+                            "iconImage": "../img/dashboard_v1/v6/awc-opened-at-least-15-days-icon",
+                            "title": "awc_opened_at_least_15_days"
+                        },
+                        {
+                            "count": 16431,
+                            "iconImage": "../img/dashboard_v1/v6/awc-opened-for-atleast-25-days-icon",
+                            "title": "awc_opened_for_atleast_25_days"
+                        },
+                        {
+                            "count": 0,
+                            "iconImage": "../img/dashboard_v1/v6/janman-urban-icon",
+                            "title": "janman_urban"
+                        },
+                        {
+                            "count": 0,
+                            "iconImage": "../img/dashboard_v1/v6/janman-rural-icon",
+                            "title": "janman_rural"
+                        },
+                        {
+                            "count": 23542,
+                            "iconImage": "../img/dashboard_v1/v6/awc-opened-for-atleast-21-days-icon",
+                            "title": "awc_opened_for_atleast_21_days"
+                        }
+                    ],
+                    "district_id": 0
+                }
+            ],
+            "id": 4
+        }
+    ]
+}
